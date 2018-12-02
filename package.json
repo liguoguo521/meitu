@@ -1,0 +1,19 @@
+{
+  "name": "meitu",
+  "version": "1.0.0",
+  "description": "美团库",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liguoguo521/meitu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liguoguo521/meitu/issues"
+  },
+  "homepage": "https://github.com/liguoguo521/meitu#readme"
+}
